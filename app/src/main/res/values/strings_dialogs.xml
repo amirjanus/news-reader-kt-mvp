@@ -1,0 +1,6 @@
+<resources>
+    <!-- Strings for ErrorDialog -->
+    <string name="error_dialog_title">Greška</string>
+    <string name="error_dialog_message">Ups, došlo je do pogreške.</string>
+    <string name="error_dialog_button">U redu</string>
+</resources>
