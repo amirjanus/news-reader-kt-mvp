@@ -21,7 +21,7 @@
 
         <activity
             android:name=".view.main.MainActivity"
-            android:label="@string/label_factory_news">
+            android:label="@string/label_news_reader">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
